@@ -8,7 +8,9 @@ December 2, 2021 2021-12-02
 
 下图就是编译这段代码的过程：
 
-![Untitled](01-%E7%A8%8B%E5%BA%8F%E7%9A%84%E8%BF%90%E8%A1%8C%E8%BF%87%E7%A8%8B%EF%BC%9A%E4%BB%8E%E4%BB%A3%E7%A0%81%E5%88%B0%E6%9C%BA%E5%99%A8%E8%BF%90%E8%A1%8C%20ca35acef5c474e22972867ef7f0d64e3/Untitled.png)
+![GCC工具链](01-%E7%A8%8B%E5%BA%8F%E7%9A%84%E8%BF%90%E8%A1%8C%E8%BF%87%E7%A8%8B%EF%BC%9A%E4%BB%8E%E4%BB%A3%E7%A0%81%E5%88%B0%E6%9C%BA%E5%99%A8%E8%BF%90%E8%A1%8C%20ca35acef5c474e22972867ef7f0d64e3/Untitled.png)
+
+GCC工具链
 
 其实，我们也可以手动控制以上这个编译流程，从而留下中间文件方便研究：
 
